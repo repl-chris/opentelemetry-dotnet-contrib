@@ -6,6 +6,8 @@
   ([#1255](https://github.com/open-telemetry/opentelemetry-dotnet-contrib/pull/1255))
 * Client instrumentation implementation moved to lower-level `BindingElement`.
   ([#1247](https://github.com/open-telemetry/opentelemetry-dotnet-contrib/pull/1247))
+* Added support for non-SOAP requests.
+  ([#1251](https://github.com/open-telemetry/opentelemetry-dotnet-contrib/pull/1251))
 
 ## 1.0.0-rc.10
 
